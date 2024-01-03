@@ -1,4 +1,4 @@
-One editor of Horny Doge's game Peeping Dorm Manager.
+One editor for Horny Doge's game Peeping Dorm Manager.
 
 requirements:
 
